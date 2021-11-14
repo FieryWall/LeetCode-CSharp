@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace csharp
+namespace csharp.Problems._1._Two_Sum
 {
     public class TwoSumSolution {
         public int[] TwoSum(int[] nums, int target) {

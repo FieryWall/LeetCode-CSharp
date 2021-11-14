@@ -20,25 +20,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Compile Include="..\Problems\1. Two Sum\Solution.cs">
-        <Link>1. Two Sum\Solution.cs</Link>
-      </Compile>
-      <Compile Include="..\Problems\1. Two Sum\Test.cs">
-        <Link>1. Two Sum\Test.cs</Link>
-      </Compile>
       <Compile Remove="csharp\**" />
-      <Compile Include="..\Problems\2. Add Two Numbers\LinkedListBuilder.cs">
-        <Link>2. Add Two Numbers\LinkedListBuilder.cs</Link>
-      </Compile>
-      <Compile Include="..\Problems\2. Add Two Numbers\Test.cs">
-        <Link>2. Add Two Numbers\Test.cs</Link>
-      </Compile>
-      <Compile Include="..\Problems\2. Add Two Numbers\ListNode.cs">
-        <Link>2. Add Two Numbers\ListNode.cs</Link>
-      </Compile>
-      <Compile Include="..\Problems\2. Add Two Numbers\Solution.cs">
-        <Link>2. Add Two Numbers\Solution.cs</Link>
-      </Compile>
     </ItemGroup>
 
     <ItemGroup>

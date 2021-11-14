@@ -1,0 +1,16 @@
+.idea
+*.cache
+*.user
+*.pdb
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Bb]uild/
+!Tools/Scripts/Build/
+[Oo]bj/
+[Ll]og/

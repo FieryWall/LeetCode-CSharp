@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace csharp
+namespace csharp.Problems._1._Two_Sum
 {
     public class TwoSumTest
     {
